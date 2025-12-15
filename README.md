@@ -1,5 +1,6 @@
 # 🌐 Yoman Kuruma — Portfolio
 
+https://kurumayoman.github.io/Portfolio/
 This repository contains a **single-page static portfolio website** created as a demo for **Yoman Kuruma**.  
 It showcases basic web development skills using **HTML, CSS, and JavaScript**, with smooth animations and a clean layout.
 
@@ -28,6 +29,7 @@ It showcases basic web development skills using **HTML, CSS, and JavaScript**, w
 ### Open directly
 - Double-click `index.html`
 - OR right-click → **Open with Browser**
+
 
 
 
