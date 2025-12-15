@@ -25,15 +25,10 @@ It showcases basic web development skills using **HTML, CSS, and JavaScript**, w
 
 ## 🖥️ How to View Locally
 
-### Option 1: Open directly
+### Open directly
 - Double-click `index.html`
 - OR right-click → **Open with Browser**
 
-### Option 2: Use a local server (recommended)
 
-#### Windows (PowerShell)
-```powershell
-# Run from the project folder
-python -m http.server 8000
-Start-Process "http://localhost:8000"
+
 
